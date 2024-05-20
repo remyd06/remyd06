@@ -9,11 +9,11 @@
 
 ## Projects
 <div align="center">
-  <ul style="list-style: none; padding: 0;">
+<ul>
     <strong><a href="https://github.com/remyd06/1-libft">Libft:</a></strong> Your first own library</li>
     <strong><a href="https://github.com/remyd06/2.1-ft_printf">ft_printf:</a></strong> Because ft_putnbr() and ft_putstr() aren't enough</li>
     <strong><a href="https://github.com/remyd06/2.2-get_next_line">GNL:</a></strong> Reading a line on a fd is way too tedious</li>
-  </ul>
+</ul>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
