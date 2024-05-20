@@ -3,7 +3,7 @@
 
 ## Github Stats
 <div align="center" style="display: flex; justify-content: center; gap: 2%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=remyd06&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=remyd06&theme=dark&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=remyd06&theme=dark" alt="remyd06" /></p>
 </div>
 
