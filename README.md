@@ -27,9 +27,10 @@
   </a>
 </p>
 
-<p
+<p>
   <img src="https://visitcount.itsvg.in/api?id=rdedola&label=Profile%20Views&color=0&icon=0&pretty=false" alt="Profile Views Counter">
 </p>
+
 <div align="center">
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
