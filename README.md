@@ -14,6 +14,12 @@
     <li><strong><a href="https://github.com/remyd06/2.2-get_next_line">GNL:</a></strong> Reading a line on a fd is way too tedious</li>
 </ul>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=remyd06&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <h3 >Languages and Tools:</h3>
 <p
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
