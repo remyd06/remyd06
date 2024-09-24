@@ -9,9 +9,12 @@
 
 ## 🔭 Projects
 <ul>
-    <li><strong><a href="https://github.com/remyd06/1-libft">Libft:</a></strong> Your first own library</li>
-    <li><strong><a href="https://github.com/remyd06/2.1-ft_printf">ft_printf:</a></strong> Because ft_putnbr() and ft_putstr() aren't enough</li>
-    <li><strong><a href="https://github.com/remyd06/2.2-get_next_line">GNL:</a></strong> Reading a line on a fd is way too tedious</li>
+    <li><strong><a href="https://github.com/remyd06/1-libft">Libft:</a></strong> Your first own library.</li>
+    <li><strong><a href="https://github.com/remyd06/2.1-ft_printf">ft_printf:</a></strong> Because ft_putnbr() and ft_putstr() aren't enough.</li>
+    <li><strong><a href="https://github.com/remyd06/2.2-get_next_line">GNL:</a></strong> Reading a line on a fd is way too tedious.</li>
+    <li><strong><a href="https://github.com/remyd06/3.1-push_swap">Push Swap:</a></strong> Small sorting algorithm.</li>
+    <li><strong><a href="https://github.com/remyd06/3.2-minitalk">Minitalk:</a></strong> UNIX signal exchange between a client and a server.</li>
+    <li><strong><a href="https://github.com/remyd06/3.3-so_long">So Long:</a></strong> Simple 2D game using the MiniLibX.</li>
 </ul>
 
 ## 🏆 GitHub Trophies
