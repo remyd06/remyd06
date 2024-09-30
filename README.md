@@ -7,7 +7,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=remyd06&theme=react&hide_border=true" style="width: 51%;">
 </div>
 
-## 🔭 Projects
+## 🔭 Projects (Common core)
 <ul>
     <li><strong><a href="https://github.com/remyd06/1-libft">Libft:</a></strong> Your first own library.</li>
     <li><strong><a href="https://github.com/remyd06/2.1-ft_printf">Printf:</a></strong> Because ft_putnbr() and ft_putstr() aren't enough.</li>
