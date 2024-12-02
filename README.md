@@ -16,6 +16,8 @@
     <li><strong><a href="https://github.com/remyd06/3.2-minitalk">Minitalk:</a></strong> UNIX signal exchange between a client and a server.</li>
     <li><strong><a href="https://github.com/remyd06/3.3-so_long">So Long:</a></strong> Simple 2D game using the MiniLibX.</li>
     <li><strong><a href="https://github.com/remyd06/4.1-philosophers">Philosophers:</a></strong> Dangerous dinner simulator with threads & mutexs.</li>
+    <li><strong><a href="https://github.com/remyd06/4.2-minishell">Minishell:</a></strong> A basic shell implementation with support for commands, pipes, and redirection.s.</li>
+    https://github.com/remyd06/4.2-minishell
 
 </ul>
 
