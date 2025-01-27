@@ -7,7 +7,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=remyd06&theme=react&hide_border=true" style="width: 51%;">
 </div>
 
-## 🔭 Projects (Common core)
+## 🔭 42 Projects (Common core)
 <ul>
     <li><strong><a href="https://github.com/remyd06/1-libft">Libft:</a></strong> Your first own library.</li>
     <li><strong><a href="https://github.com/remyd06/2.1-ft_printf">Printf:</a></strong> Because ft_putnbr() and ft_putstr() aren't enough.</li>
@@ -18,6 +18,7 @@
     <li><strong><a href="https://github.com/remyd06/4.1-philosophers">Philosophers:</a></strong> Dangerous dinner simulator with threads & mutexs.</li>
     <li><strong><a href="https://github.com/remyd06/4.2-minishell">Minishell:</a></strong> A basic shell implementation with support for commands, pipes, and redirections.</li>
     <li><strong><a href="https://github.com/remyd06/5.1-cube3d">Cube 3D:</a></strong> A little reproduction of the legendary Wolfenstein.</li>
+    <li><strong><a href="https://github.com/remyd06/5.2-cpp_modules-1">CPP Modules #1:</a></strong> The first step in the C++ language.</li>
 
 </ul>
 
