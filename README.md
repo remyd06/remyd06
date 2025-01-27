@@ -17,6 +17,7 @@
     <li><strong><a href="https://github.com/remyd06/3.3-so_long">So Long:</a></strong> Simple 2D game using the MiniLibX.</li>
     <li><strong><a href="https://github.com/remyd06/4.1-philosophers">Philosophers:</a></strong> Dangerous dinner simulator with threads & mutexs.</li>
     <li><strong><a href="https://github.com/remyd06/4.2-minishell">Minishell:</a></strong> A basic shell implementation with support for commands, pipes, and redirections.</li>
+    <li><strong><a href="https://github.com/remyd06/4.2-minishell">Cube 3D:</a></strong> A little reproduction of the legendary Wolfenstein.</li>
 
 </ul>
 
