@@ -43,7 +43,7 @@
 ###
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/langfr-280px-42_Logo.svg.png" alt="Logo">
+  <img src="https://cdn.intra.42.fr/users/d2d41da626f83cfc049e641185e1ccca/flmarsou.jpg" alt="Logo">
 </p>
 
 
