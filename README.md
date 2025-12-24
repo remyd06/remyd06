@@ -20,9 +20,10 @@
 <ul>
 </ul>
 
-## 🛰️ Embeded Systems Projects (Personal)
+## 🛰️ Embeded Systems Projects (Personal) (CubeIDE, CubeMX)
 <ul>
-     <li><strong><a href="https://github.com/remyd06/STM32_basics">STM32 Basics:</a></strong> The basics notions of embededs systems with STM32.</li>
+     <li><strong><a href="https://github.com/remyd06/STM32_basics">STM32 Basics:</a></strong> The basics notions of embededs systems with STM32 (GPIO, LED, button, ADC, UART, HAL basics).</li>
+     <li><strong><a href="https://github.com/remyd06/STM32_weatherStation">STM32 Weather Station:</a></strong> A small weather station. (HAL STM32, I²C, PWM, UART)</li>
 </ul>
 
 ## 🏆 GitHub Trophies
