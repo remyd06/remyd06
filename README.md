@@ -32,7 +32,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d718ef40-608c-47af-8f86-fda38d5ca093" height="50" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img src="https://github.com/user-attachments/assets/54b12d07-26c6-4056-9c62-1a1b0ad07d80" height="50" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
@@ -45,3 +45,4 @@
   <img src="https://github.com/user-attachments/assets/7a9d1425-b0d1-4033-a35b-be0fb6b7cc01" height="50" alt="STM32 CubeMX" />
   <img width="12" /> 
 </div>
+
