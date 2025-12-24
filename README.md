@@ -22,7 +22,6 @@
 
 ## 🛰️ Embeded Systems Projects (Personal)
 <ul>
-    https://github.com/remyd06/STM32_basics
      <li><strong><a href="https://github.com/remyd06/STM32_basics">STM32 Basics:</a></strong> The basics notions of embededs systems with STM32.</li>
 </ul>
 
