@@ -30,7 +30,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img src="https://github.com/user-attachments/assets/d718ef40-608c-47af-8f86-fda38d5ca093" height="50" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="12" />
@@ -45,4 +45,3 @@
   <img src="https://github.com/user-attachments/assets/7a9d1425-b0d1-4033-a35b-be0fb6b7cc01" height="50" alt="STM32 CubeMX" />
   <img width="12" /> 
 </div>
-
