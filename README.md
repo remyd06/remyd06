@@ -1,12 +1,6 @@
 <h1 >Hi 👋, I'm Rémy</h1>
 <h3 >A student dev in 42Nice.</h3>
 
-## 📈 Github Stats
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=remyd06&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remyd06&theme=react&hide_border=true" style="width: 51%;">
-</div>
-
 ## 🔭 42 Projects (Common core)
 <ul>
     <li><strong><a href="https://github.com/remyd06/1-libft">Libft:</a></strong> Your first own library.</li>
@@ -20,6 +14,14 @@
     <li><strong><a href="https://github.com/remyd06/5.1-Cub3d">Cube 3D:</a></strong> A little reproduction of the legendary Wolfenstein.</li>
     <li><strong><a href="https://github.com/remyd06/5.2-cpp_modules-1">CPP Modules:</a></strong> The first step in the C++ language.</li>
 
+</ul>
+
+## 🖥️ 42 Projects (Post-common core)
+<ul>
+</ul>
+
+## 🛰️ Embeded Systems Projects (Personal)
+<ul>
 </ul>
 
 ## 🏆 GitHub Trophies
