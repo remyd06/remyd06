@@ -26,9 +26,6 @@
      <li><strong><a href="https://github.com/remyd06/STM32_weatherStation">STM32 Weather Station:</a></strong> A small weather station. (HAL STM32, I²C, PWM, UART)</li>
 </ul>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=remyd06&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -42,5 +39,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/2b1604ec-88d6-45e3-9ddf-a98eeccb93c3" height="50" alt="STM32 CubeIDE" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/7a9d1425-b0d1-4033-a35b-be0fb6b7cc01" height="50" alt="STM32 CubeMX" />
+  <img width="12" /> 
 </div>
 
