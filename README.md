@@ -26,9 +26,6 @@
      <li><strong><a href="https://github.com/remyd06/STM32_weatherStation">STM32 Weather Station:</a></strong> A small weather station. (HAL STM32, I²C, PWM, UART)</li>
 </ul>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d718ef40-608c-47af-8f86-fda38d5ca093" height="50" alt="c logo"  />
   <img width="12" />
