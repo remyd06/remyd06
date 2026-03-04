@@ -13,7 +13,7 @@
     <li><strong><a href="https://github.com/remyd06/4.2-minishell">Minishell:</a></strong> A basic shell implementation with support for commands, pipes, and redirections.</li>
     <li><strong><a href="https://github.com/remyd06/5.1-Cub3d">Cube 3D:</a></strong> A little reproduction of the legendary Wolfenstein.</li>
     <li><strong><a href="https://github.com/remyd06/5.2-cpp_modules-1">CPP Modules:</a></strong> The first step in the C++ language.</li>
-    <li><strong><a href="https://github.com/remyd06/6.1-IRC">ft_IRC:</a></strong> A IRC protocol server.</li>
+    <li><strong><a href="https://github.com/remyd06/6.1-ft_IRC">IRC:</a></strong> A IRC protocol server.</li>
 
 </ul>
 
