@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Rémy</h1>
-<h3 >A student dev in 42Nice.</h3>
+<h3 >A student dev in 42Nice. Focused on low-level programming and hardware. Interested in aerospace, defense systems, robotics, and high-performance automotive technologies.</h3>
 
 ## 🔭 42 Projects (Common core)
 <ul>
