@@ -24,6 +24,7 @@
 ## 🛰️ Embeded Systems Projects (Personal) (CubeIDE, CubeMX)
 <ul>
      <li><strong><a href="https://github.com/remyd06/STM32-LedController">STM32 Led Control:</a></strong> STM32 Nucleo-F446RE - Hardware timers, interrupts, debounce, UART command interface, state machine.</li>
+     <li><strong><a href="https://github.com/remyd06/STM32-MorseStation">STM32 Morse Station:</a></strong> STM32 Nucleo-F446RE - STM32 Nucleo-F446RE – FreeRTOS multitask, Morse LED, UART commands, interrupts, debounce, state machine, login system.</li>
      <li><strong><a href="https://github.com/remyd06/STM32_weatherStation">STM32 Weather Station:</a></strong> A small weather station. (HAL STM32, I²C, PWM, UART)</li>
 </ul>
 
