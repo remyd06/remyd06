@@ -42,5 +42,9 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/7a9d1425-b0d1-4033-a35b-be0fb6b7cc01" height="50" alt="STM32 CubeMX" />
   <img width="12" /> 
+  <img src="https://github.com/user-attachments/assets/2552c3d0-c02b-4985-aad3-4cbdf513913f" height="50" alt="STM32 FreeRTOS" />
+  <img width="12" />
+
+
 </div>
 
