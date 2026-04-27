@@ -19,7 +19,7 @@
 
 ## 🖥️ 42 Projects (Post-common core)
 <ul>
-    <li><strong><a href="https://github.com/remyd06/kfs-1">KFS-1:</a></strong> Writing an operating system kernel from scratch in C. </li>
+    <li><strong><a href="https://github.com/remyd06/kfs-1">KFS-1:</a></strong> Writing a basic system kernel from scratch in C. </li>
 </ul>
 
 ## 🛰️ Embeded Systems Projects (Personal) (CubeIDE, CubeMX)
